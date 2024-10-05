@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr. Shamiq aka TheDev.</h1>
 <h3 align="center">Sr. Software Engineer - Backend - JavaScript/PHP</h3>
 
-- 🔭 I’m currently working on **DentalZorg**
+- 🔭 I’m currently working at **DentalZorg**
 
 - 🌱 I’m currently learning **Software Architecture Design**
 
