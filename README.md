@@ -15,8 +15,10 @@
 <a href="https://stackoverflow.com/users/10602855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10602855" height="30" width="40" /></a>
 </p>
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamiqthedev&show_icons=true&locale=en&layout=compact" alt="shamiqthedev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamiqthedev&show_icons=true&locale=en" alt="shamiqthedev" /></p>
+ -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiqthedev&" alt="shamiqthedev" /></p>
