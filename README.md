@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mr. Shamiq aka TheDev.</h1>
+<h1 align="center">Hi 👋, I'm Shamiq aka TheDev.</h1>
 <h3 align="center">Sr. Software Engineer - Backend - JavaScript/PHP</h3>
 
-- 🔭 I’m currently working at **DentalZorg**
+- 🔭 I’m currently working at **Xynotech Systems - C-Link**
 
-- 🌱 I’m currently learning **Software Architecture Design**
+- 🌱 I’m currently learning **Forward Deployment Engineering**
 
-- 👨‍💻 All of my projects are available at [https://shamiqthedev.com](https://shamiqthedev.com)
+<!--  - 👨‍💻 All of my projects are available at [https://shamiqthedev.com](https://shamiqthedev.com)  -->
 
-- 📫 How to reach me **muhammad.shamiq.hussain@outlook.com**
+- 📫 How to reach me **shamiq.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
